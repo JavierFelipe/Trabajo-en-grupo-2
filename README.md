@@ -1,8 +1,8 @@
 # Trabajo en equipo 27 de Noviembre.
 Este repositorio tiene el fin de desarrolar las habilidades lógicas, uso de GitHub y el trabajo de equipo a través de los siguientes problemas:
 
-    En una granja se cran un numero de V- Vacas, A- Aves (pollos y gallinas) y E- escorpiones. 
-    Las vacas estan encerradas en un corral de N Mmetros cuadrados, las aves en un galpon y 
+    En una granja se crían un número de V- Vacas, A- Aves (pollos y gallinas) y E- escorpiones. 
+    Las vacas estan encerradas en un corral de N*M metros cuadrados, las aves en un galpón y 
     los escorpiones en vitrinas. Para cada subproblema utilice solo los datos que necesite
 
     1. Sí una vaca necesita K metros cuadrados de pasto para producir X litros de leche por día, 
