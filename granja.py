@@ -5,4 +5,4 @@ def granja(x):
     huevo5=(30/5)*(gallina/2)
     huevomes=huevo5+huevo3
     return huevomes
-print("Las gallinas del galpón producen", granja(aves), "Huevos al mes.")
+print("Las gallinas del galpón producen", granja(aves), "Huevos al mes.")
